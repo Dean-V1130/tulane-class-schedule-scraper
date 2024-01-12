@@ -1,0 +1,1 @@
+# tulane-class-schedule-scraper
